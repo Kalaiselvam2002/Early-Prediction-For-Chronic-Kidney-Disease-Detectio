@@ -1,0 +1,71 @@
+Early Prediction for Chronic Kidney Disease Detection: A
+Progressive Approach to Health Management
+
+Chronic Kidney Disease (CKD) is a major medical problem and can be cured if treated in the early
+stages. Usually, people are not aware that medical tests we take for different purposes could contain
+valuable information concerning kidney diseases. Consequently, attributes of various medical tests
+are investigated to distinguish which attributes may contain helpful information about the disease. The
+information says that it helps us to measure the severity of the problem, the predicted survival of the
+patient after the illness, the pattern of the disease and work for curing the disease.
+
+In todays world as we know most of the people are facing so many disease and as this can be cured
+if we treat people in early stages this project can use a pretrained model to predict the Chronic Kidney
+Disease which can help in treatments of peoples who are suffer from this disease.
+
+Project Flow:
+
+? User interacts with the UI to enter the input.
+? Entered input is analysed by the model which is integrated.
+? Once model analyses the input the prediction is showcased on the UI
+To accomplish this, we have to complete all the activities listed below,
+? Define Problem / Problem Understanding
+? Specify the business problem
+? Business requirements
+? Literature Survey
+? Social or Business Impact.
+? Data Collection & Preparation
+? Collect the dataset
+? Data Preparation
+? Exploratory Data Analysis
+? Descriptive statistical
+? Visual Analysis
+? Model Building
+? Training the model in multiple algorithms
+? Testing the model
+? Performance Testing & Evaluate the results
+? Testing model with multiple evaluation metrics
+? Evaluate the results
+? Model Deployment
+? Save the best model
+? Integrate with Web Framework
+? Project Demonstration & Documentation
+? Record explanation Video for project end to end solution
+? Project Documentation-Step by step project development procedure
+
+
+Project Structure:
+
+Create the Project folder which contains files as shown below
+? We are building a flask application which needs HTML pages stored in the templates folder
+and a python script app.py for scripting.
+? CKD.pkl is our saved model. Further we will use this model for flask integration.
+? Training folder contains a model training file.
+Milestone 1: Define Problem / Problem Understanding
+Activity 1: Specify the business problem
+Refer Project Description
+Activity 2: Business requirements
+The business requirements for a machine learning model to predict chronic kidney
+disease include the ability to accurately predict the ckd based on given information,
+Minimise the number of false positives (predicting diseased) and false negatives (not
+diseased). Provide an explanation for the model's decision, to comply with regulations
+and improve transparency.
+Activity 3: Literature Survey (Student Will Write)
+Chronic kidney disease (CKD) is a significant public health issue, affecting an
+estimated 14% of the global population. The disease is characterized by a gradual
+loss of kidney function over time, leading to a range of serious health complications,
+including end-stage renal disease (ESRD) requiring dialysis or kidney transplant.
+Early detection and management of CKD is crucial to prevent progression to ESRD
+and improve patient outcomes.
+There have been numerous studies in recent years aimed at developing accurate and
+efficient methods for predicting CKD progression. These studies have employed a
+variety of techniques, including machine learning, deep learning, and artificial neural
